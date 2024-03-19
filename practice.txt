@@ -1,0 +1,6 @@
+Hi everyone
+we are learning File I/O
+using Python.
+I like programming in Python.
+
+1,2,46,67,78,98,99,87,33

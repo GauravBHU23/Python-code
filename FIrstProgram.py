@@ -1,0 +1,8 @@
+print("Hello World")
+print("Coding With Gaurav")
+print("My Name is Gaurav.")
+print("My age is 23.")
+print("My Father name is Mahendra Sharma.", "My Mother name is Madhuri.")
+print(23)
+print(34)
+print(22+32)
